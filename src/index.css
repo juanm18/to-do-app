@@ -1,0 +1,26 @@
+#roots {
+  background-color: gray;
+}
+
+#pageNav {
+  display: inline;
+  margin-left: 20%;
+  padding: 1rem;
+}
+
+#pageNavText {
+  padding: 2px;
+  font-size: 1rem;
+}
+
+.error {
+  color: #C41E3A !important;
+}
+
+.errorInput {
+  border: 2px solid red !important;
+}
+
+#list-group{
+  margin-top: 1rem;
+}
